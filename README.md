@@ -1,6 +1,6 @@
 👋 Bem-vindo ao meu perfil no GitHub!
 
-Sou técnico eletrônico com experiência em testes/debug placas de circuito impresso (PCB). Atualmente, estou em transição de carreira para desenvolvimento de software e curso Ciência da Computação, combinando meu conhecimento em hardware com novas habilidades em programação.
+Sou técnico eletrônico com experiência em testes/debug de placas de circuito impresso (PCB). Atualmente, estou em transição de carreira para desenvolvimento de software e curso Ciência da Computação, combinando meu conhecimento em hardware com novas habilidades em programação.
 
 
 ✅ O que eu trago como diferencial
