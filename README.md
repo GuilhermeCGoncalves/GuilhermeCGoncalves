@@ -28,7 +28,7 @@ CSS, JavaScript.
 
 📂 Projetos
 
-Spotify Clone - Clone da landpage do Spotify;
+Spotify Clone - Clone da landing page do Spotify;
 
 Converter - Conversor de unidades de medidas de pressão.
 
